@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Artificial Intelligence : An Introduction",
+    "date": "23 Jun 2024",
+    "time": "9:30 PM",
+    "eventName": "Auditorium 01",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Fundamentals",
+    "date": "24 Jun 2024",
+    "time": "11:00 AM",
+    "eventName": "Hall A",
+    "status": "Processed"
+  },
+  {
+    "id": 3,
+    "title": "Deep Learning Applications",
+    "date": "25 Jun 2024",
+    "time": "2:15 PM",
+    "eventName": "Auditorium 02",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "title": "Natural Language Processing Essentials",
+    "date": "26 Jun 2024",
+    "time": "4:00 PM",
+    "eventName": "Seminar Room 05",
+    "status": "Processed"
+  },
+  {
+    "id": 5,
+    "title": "Computer Vision for Beginners",
+    "date": "27 Jun 2024",
+    "time": "10:30 AM",
+    "eventName": "Hall B",
+    "status": "Pending"
+  },
+  {
+    "id": 6,
+    "title": "AI in Healthcare",
+    "date": "28 Jun 2024",
+    "time": "1:00 PM",
+    "eventName": "Auditorium 03",
+    "status": "Processed"
+  },
+  {
+    "id": 7,
+    "title": "Robotics and Automation",
+    "date": "29 Jun 2024",
+    "time": "9:00 AM",
+    "eventName": "Lab 02",
+    "status": "Pending"
+  },
+  {
+    "id": 8,
+    "title": "Ethics in Artificial Intelligence",
+    "date": "30 Jun 2024",
+    "time": "3:45 PM",
+    "eventName": "Conference Hall 01",
+    "status": "Processed"
+  },
+  {
+    "id": 9,
+    "title": "Data Science with Python",
+    "date": "01 Jul 2024",
+    "time": "12:30 PM",
+    "eventName": "Hall C",
+    "status": "Pending"
+  },
+  {
+    "id": 10,
+    "title": "AI for Business Innovation",
+    "date": "02 Jul 2024",
+    "time": "5:15 PM",
+    "eventName": "Auditorium 04",
+    "status": "Processed"
+  }
+]

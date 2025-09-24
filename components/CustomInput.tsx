@@ -37,11 +37,10 @@ export default function CustomInput({
         `}
       />
 
-      {/* Error has higher priority */}
       {error ? (
-        <p className="text-sm text-red-500 -mt-1">{error}</p>
+        <p className="text-sm text-red-500">{error}</p>
       ) : helperText ? (
-        <p className="text-sm text-gray-500 -mt-1">{helperText}</p>
+        <p className="text-sm text-gray-500">{helperText}</p>
       ) : null}
     </div>
   );
