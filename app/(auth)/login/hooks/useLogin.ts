@@ -33,11 +33,18 @@ export const useLogin = () => {
       }
     }, 700);
   };
+
+  const logout = () => {
+    localStorage.removeItem("fake_auth_token");
+    localStorage.removeItem("fake_user_av_code");
+    router.push("/login");
+  };
   return {
     code,
     setCode,
     error,
     loading,
     handleSubmit,
+    logout
   };
 };
